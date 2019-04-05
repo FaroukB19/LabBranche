@@ -1,6 +1,7 @@
 //
 // Created by farouk on 19-03-14.
 //
+//SAlut farouk c pool :ppppp
 
 #ifndef TP2_TYPE_H
 #define TP2_TYPE_H
